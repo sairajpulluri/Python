@@ -6,3 +6,8 @@ git log
 gtit stash
 git diff
 git branch 
+git push
+git clone
+svn vs git
+git head concept
+
