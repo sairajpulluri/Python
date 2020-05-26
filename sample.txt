@@ -1,1 +1,13 @@
-vamshikrishna
+how to solve git conflicts.
+what is the fifferance between merge and pull
+what is the differance bewteen clone and pull
+git status
+git log
+gtit stash
+git diff
+git branch 
+git push
+git clone
+svn vs git
+git head concept
+
